@@ -1,0 +1,142 @@
+.departamentos{
+    height: 300px;
+    width: 100%;
+    text-align: center;
+}
+.departamentos h5{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #030A33;
+    padding: 30px 0 10px 40px;
+    text-align: center;
+   
+}
+
+.avatar-1{
+    width: 60px;
+    height:60px;  
+    display: inline-flex;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 15px;
+    box-shadow: 0 6px 12px ;
+    background-image: url("../img/avatar-1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.avatar-1 p{
+    padding-top: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #030A33;
+    
+}
+.avatar-2{
+    width: 60px;
+    height:60px;  
+    display: inline-flex;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 15px;
+    box-shadow: 0 6px 12px ;
+    background-image: url("../img/avatar-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .avatar-2 p{
+    padding-top: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #030A33;
+}
+  .avatar-3{
+    width: 60px;
+    height:60px;  
+    display: inline-flex;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 15px;
+    box-shadow: 0 6px 12px ;
+    background-image: url("../img/avatar-3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .avatar-3 p{
+    padding-top: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #030A33;
+}
+  .avatar-4{
+    width: 60px;
+    height:60px;  
+    display: inline-flex;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 15px;
+    box-shadow: 0 6px 12px ;
+    background-image: url("../img/avatar-4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .avatar-4 p{
+    padding-top: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #030A33;
+}
+  .avatar-5{
+    width: 60px;
+    height:60px;  
+    display: inline-flex;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 15px;
+    box-shadow: 0 6px 12px ;
+    background-image: url("../img/avatar-5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .avatar-5 p{
+    padding-top: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #030A33;
+}
+  .avatar-6{
+    width: 60px;
+    height:60px;  
+    display: inline-flex;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 15px;
+    box-shadow: 0 6px 12px ;
+    background-image: url("../img/avatar-6.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .avatar-6 p{
+    padding-top: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #030A33;
+}
+  .avatar-7{
+    width: 60px;
+    height:60px;  
+    display: inline-flex;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 15px;
+    box-shadow: 0 6px 12px ;
+    background-image: url("../img/avatar-7.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .avatar-7 p{
+    padding-top: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #030A33;
+}

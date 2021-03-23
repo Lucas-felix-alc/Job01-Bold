@@ -1,0 +1,110 @@
+
+
+.container_geral{
+    width: 100%;
+    background-color:  #0A3282;
+}
+.modelo_1{
+width: 100%;
+}
+
+.texto_1{
+    opacity: 0.9;
+    font-family: 'Roboto',  sans-serif;
+    font-weight:700;
+    text-align: left;
+    width: 31%;
+    height: 26%;
+    padding: 40px 15px;
+    position: relative;
+    bottom: 55px;
+    left: 6%;
+    justify-content: center;
+    display: grid;
+    grid-gap: 30px;
+    background-color: #EFECEA;
+    color: #002e8a ;
+}
+.texto_1 h2{
+    text-align: justify;
+    height: 50%;
+    padding-top:0;
+    font-family: 'Roboto',  sans-serif;
+    font-weight: 700;
+    color: #00297a;
+}
+.texto_1 p{
+    text-align: start;
+    font-family: 'Roboto',  sans-serif;
+    font-weight: 500;
+    color: #00297a;
+}
+.img_2{
+    background-color: #0A3282;
+    display: inline;
+    position: relative;
+    top:50%;
+    right: 0px;
+    
+}
+
+.modelo-2{
+    width: 40%;
+    height: 10%;
+    padding: 30px;
+    position: relative;
+    bottom: 195px;
+    right: 6%;
+    float: right;
+    padding-right: 20px;
+}
+
+@media (min-width: 970px){
+    .modelo-2{
+        width: 30%;
+        position: relative;
+         bottom: 195px;
+         right: 6%;
+    }
+
+}
+.texto_2{
+    text-align: start;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    bottom: 150px;
+    padding-left: 20px;
+    width: 31%;
+    height: 26%;
+    color: rgb(192, 192, 192);
+    margin: 160px 0 0 40px; 
+    justify-content: center;
+}
+
+.btn_amarelo{
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    position: relative;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-top:5px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 50%;
+    color: white;
+    background-color:#F49E00;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 2px;
+}
+@media(min-width: 1000px){
+    .btn_amarelo{
+        position: relative;
+        top:20%;
+        left:20%;
+        transform: translate(-30%, -10%);
+        width: 50%;
+
+    }
+}
