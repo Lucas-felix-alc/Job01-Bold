@@ -3,10 +3,13 @@
     font-weight: bold;
     padding: 10px;
     width: 100%;
-    height: 250px;
-    background-color:#030A33 ;
+    height: 300px;
+    background-color:#000000 ;
     color: white;
     text-align: center;
+}
+.cupom p{
+    padding-top: 20px;
 }
 .cupom h1{
    text-align: center;
@@ -19,7 +22,7 @@
 }
 .btn_amarelo2{
     cursor: pointer;
-    background-color:#F49E00 ;
+    background-color:#FBF37C ;
     width: 40%;
     margin-top: 30px;
     padding: 10px;
@@ -33,5 +36,5 @@
     padding-top: 5px;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    color: white;
+    color: black;
 }

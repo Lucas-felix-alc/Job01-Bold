@@ -7,71 +7,94 @@
 }
 .modelo_3{
     
-
+    margin-left: 100px;
     padding: 10px;
-    width: 40%;
+    width: 30%;
     position: relative;
     display: table-cell;
     float: left;
     left: 50px;
     
 }
-.texto-3 h3{
-    text-align: center;
-    font-weight: 500;
-    margin-top: -50px;
-    width: 50%;
-    font-family: 'Roboto', sans-serif;
-    color: #003db6 ;
-    padding-top:0;
-    padding-left: 50px;
-    padding-bottom: 10px;
-}
 .texto-3{
     justify-content: center;
     padding: 10px;
-    width: 40%;
+    width: 42%;
     height: 20%;
     position: relative;
     bottom: -100px;
     left: 7%;
 
 }
+.texto-3 h3{
+    text-align: left;
+    font-weight: 500;
+    margin-top: -50px;
+    width: 50%;
+    font-family: 'Roboto', sans-serif;
+    color: #000000 ;
+    padding-top:0;
+    padding-left: 50px;
+    padding-bottom: 10px;
+}
+
 .texto-3 p{
     padding-left: 50px;
+    line-height: 20px;
     text-align: start;
     font-family:'Roboto', sans-serif;
     font-weight: bolder;
-    color: #003db6 ;
+    color: #000000 ;
 }
-@media(max-width:500px){
-    .texto-3{
-        display: none;
-    }
+
+.container_btn_1{
+    margin-left: -60px;
+    width: 70%;
 }
 .btn_amarelo-1{
+    margin-left: 100px;
+    margin-top: 100px;
     cursor: pointer;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 500;
-    color: white;
     position: relative;
     top: 50px;
     border-radius: 2px;
-    background-color:#F49E00;
+    background-color:#FBF37C;
     box-shadow: 5px 5px 5px black;
     text-align: center;
     padding: 5px;
-    width: fit-content;
     padding-top:1px;
     height: 70px;
 }
-@media(max-width:650px){
+
+
+.btn_amarelo-1 h1{
+    text-align: center;
+    font-weight: 500;
+    color: #000000;
+    padding: 10px;
+    font-size: 20px;
+}
+@media(max-width:700px){
+    .texto-3 h3{
+        display: none;
+     }
+     .texto-3 p{
+        margin-top: -65px;
+    }
+}
+@media(max-width:1100px){
+
+    
+    
+    .modelo_3{
+        margin-left: 0;
+    }
     .btn_amarelo-1{
        display: none;
     }
     .modelo_3{
         cursor: pointer;
-        border: 4px solid #F49E00;
+        border: 4px solid #FBF37C;
     }
    
 }
